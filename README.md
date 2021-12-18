@@ -1,4 +1,4 @@
-# PCA_notes
+# PCA_Notes
 Useful links/blogs to learn PCA
 
 
