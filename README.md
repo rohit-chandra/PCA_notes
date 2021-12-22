@@ -15,6 +15,6 @@ Github Link: [Source code](https://github.com/krishnaik06/Dimesnsionality-Reduct
 10) [Krish Naik - Principle Component Analysis (PCA) using sklearn and python](https://www.youtube.com/watch?v=QdBy02ExhGI&t=14s) 
 Github Link: [Source code](https://github.com/krishnaik06/Principle-Component-Analysis)
 11) [CodeEmporium - Principal Component Analysis (PCA) - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=9oSkUej63yk)
-12) [sebastianraschka - PCA_in_3_steps](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
+12) [Sebastian Raschka - PCA_in_3_steps](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
 
  
